@@ -54,9 +54,9 @@ All categorical variables were converted to binary using `yes → 1` and `no →
 * **Library**: `scikit-learn`
 * The model was trained in `house_price_mini_project.ipynb` and saved as `model.pkl` using `pickle`.
 
----
 
-## ⚙️ Setup Instructions
+
+## ⚙Setup Instructions
 
 ### 1. Clone the repo
 
@@ -91,7 +91,7 @@ streamlit run app.py
 ```
 
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
