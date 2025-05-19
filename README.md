@@ -4,7 +4,7 @@ Predicting the price of house based on different inputs
 Here's a beginner-friendly `README.md` file for your **House Price Prediction with Streamlit** project:
 
 
-# 🏠 House Price Prediction App
+#  House Price Prediction App
 
 This is a beginner-friendly end-to-end machine learning project that predicts house prices based on various features such as area, number of bedrooms, presence of a basement, guestroom, and more. It includes:
 
@@ -14,7 +14,7 @@ This is a beginner-friendly end-to-end machine learning project that predicts ho
 
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 house_pred/
@@ -29,7 +29,7 @@ house_pred/
 
 ---
 
-## 📊 Features Used in Model
+##  Features Used in Model
 
 * `price`: Target variable (what we're predicting)
 * `area`: Square feet
