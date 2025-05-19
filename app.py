@@ -3,8 +3,11 @@ import numpy as np
 import pickle
 
 # Load trained model
-with open(r"https://github.com/Chizzy0428/House_Price_Pred_Project/blob/main/model.pkl", "rb") as f:
+import pickle
+
+with open("model.pkl", "rb") as f:
     model = pickle.load(f)
+
 
 st.title("🏠 House Price Prediction App")
 
