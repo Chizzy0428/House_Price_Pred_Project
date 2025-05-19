@@ -3,8 +3,9 @@ import numpy as np
 import pickle
 
 # Load trained model
-with open(r"C:\Users\DELL\PycharmProjects\house_pred\model.pkl", "rb") as f:
+with open("model.pkl", "rb") as f:
     model = pickle.load(f)
+
 
 st.title("🏠 House Price Prediction App")
 
