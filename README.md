@@ -1,8 +1,6 @@
 # House_Price_Pred_Project
 Predicting the price of house based on different inputs
 
-Here's a beginner-friendly `README.md` file for your **House Price Prediction with Streamlit** project:
-
 
 #  House Price Prediction App
 
@@ -29,18 +27,18 @@ house_pred/
 
 ##  Features Used in Model
 
-* `price`: Target variable (what we're predicting)
-* `area`: Square feet
-* `bedrooms`: Number of bedrooms
-* `bathrooms`: Number of bathrooms
-* `stories`: Number of stories
-* `mainroad`: Is the house on a main road? (yes/no)
-* `guestroom`: Has a guestroom? (yes/no)
-* `basement`: Has a basement? (yes/no)
-* `hotwaterheating`: Has hot water heating? (yes/no)
-* `airconditioning`: Has air conditioning? (yes/no)
-* `parking`: Number of parking spaces
-* `prefarea`: Located in a preferred area? (yes/no)
+`price`: Target variable (what we're predicting)
+ `area`: Square feet
+`bedrooms`: Number of bedrooms
+ `bathrooms`: Number of bathrooms
+ `stories`: Number of stories
+`mainroad`: Is the house on a main road? (yes/no)
+`guestroom`: Has a guestroom? (yes/no)
+`basement`: Has a basement? (yes/no)
+`hotwaterheating`: Has hot water heating? (yes/no)
+`airconditioning`: Has air conditioning? (yes/no)
+`parking`: Number of parking spaces
+`prefarea`: Located in a preferred area? (yes/no)
 
 All categorical variables were converted to binary using `yes → 1` and `no → 0`.
 
@@ -48,9 +46,9 @@ All categorical variables were converted to binary using `yes → 1` and `no →
 
 ##  ML Model
 
-* **Model Used**: Linear Regression
-* **Library**: `scikit-learn`
-* The model was trained in `house_price_mini_project.ipynb` and saved as `model.pkl` using `pickle`.
+Model Used**: Linear Regression
+Library: `scikit-learn`
+The model was trained in `house_price_mini_project.ipynb` and saved as `model.pkl` using `pickle`.
 
 
 
