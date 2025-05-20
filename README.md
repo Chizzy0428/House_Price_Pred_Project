@@ -21,13 +21,11 @@ house_pred/
 │
 ├── app.py                 # Streamlit app
 ├── model.pkl              # Trained linear regression model
-├── data.csv               # Dataset 
-├── house_price.ipynb      # Jupyter notebook for EDA & training
+├── Housing.csv               # Dataset 
+├── house_price_mini_project.ipynb      # Jupyter notebook for EDA & training
 ├── requirements.txt       # List of dependencies
 └── README.md              # Project info
-```
 
----
 
 ##  Features Used in Model
 
